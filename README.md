@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atheer-alshihri
+- 👋 Hi, I’m @atheer alshihri
 - 👀 I’m interested in Programming in computer languages and learn more
 - 🌱 I’m currently learning Programming in computer languages and learn more
 - 💞️ I’m looking to collaborate on Companies that support my interests
